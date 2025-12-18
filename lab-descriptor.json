@@ -1,0 +1,141 @@
+{
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
+  },
+  "lab": "Data Structures – 1",
+  "lab_display_name": "Data Structures – 1",
+  "phase": 3,
+  "collegeName": "IIITH",
+  "baseUrl": "ds1-iiith.vlabs.ac.in",
+  "introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
+  "experiment-sections": [
+    {
+      "sect-name": "Sorting",
+      "experiments": [
+        {
+          "name": "Bubble Sort",
+          "short-name": "bubble-sort",
+          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
+          "tag": "v1.0.9",
+          "deploy": true
+        },
+        {
+          "name": "Merge Sort",
+          "short-name": "merge-sort",
+          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
+          "tag": "v1.0.8",
+          "deploy": true
+        },
+        {
+          "name": "Heap Sort",
+          "short-name": "heap-sort",
+          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Quick Sort",
+          "short-name": "quick-sort",
+          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
+          "tag": "v1.0.8",
+          "deploy": true
+        }
+      ]
+    },
+    {
+      "sect-name": "Graphs",
+      "experiments": [
+        {
+          "name": "Depth First Search",
+          "short-name": "depth-first-search",
+          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
+          "tag": "v1.0.9",
+          "deploy": true
+        },
+        {
+          "name": "Breadth First Search",
+          "short-name": "breadth-first-search",
+          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+    },
+    {
+      "sect-name": "Trees",
+      "experiments": [
+        {
+          "name": "Tree Traversal",
+          "short-name": "tree-traversal",
+          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Binary Search Trees",
+          "short-name": "binary-search-trees",
+          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+    },
+    {
+      "sect-name": "Searching",
+      "experiments": [
+        {
+          "name": "Unsorted Arrays",
+          "short-name": "unsorted-arrays",
+          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Hashtables",
+          "short-name": "hash-tables",
+          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+    },
+    {
+      "sect-name": "Linked Lists",
+      "experiments": [
+        {
+          "name": "Linked lists",
+          "short-name": "linked-list",
+          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Polynomial Arithmetic using linked lists",
+          "short-name": "poly-arithmetic",
+          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
+          "tag": "v1.0.6",
+          "deploy": true
+        }
+      ]
+    }
+  ],
+  "targetAudience": {
+    "UG": [
+      " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
+    ],
+    "PG": [
+      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
+    ]
+  },
+  "objective": "The Virtual Lab for Data Structures will focus on creating an environment where the student interactively explores data structures. The role of this Virtual Labs is to complement the lectures and reading material and the programming lab in three ways : 1. Present visual animations of data structures 2. Allow students to interactively execute algorithms in these data structures. 3. Allow students to interactively compute the cost of using these data structures with different algorithms.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Osmania University Data Structures Lab",
+      "JNTU Data Structures Lab"
+    ]
+
+ 
+}
